@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72326095459",
+    "project_id": "emailsignin-ff145",
+    "storage_bucket": "emailsignin-ff145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72326095459:android:85cf385f653c6ecbdf0e56",
+        "android_client_info": {
+          "package_name": "com.example.emailpassauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72326095459-psq73o8m7j7uips138huj9faoevf68ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emailpassauth",
+            "certificate_hash": "382e36e180c71656a7f622ff43cfbd19e688348f"
+          }
+        },
+        {
+          "client_id": "72326095459-vcuiirrtdokmi3hb3pqg9fh6u03auuek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9iDmiTL9OZ74Nieiy-JiT1QN1uulmKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72326095459-vcuiirrtdokmi3hb3pqg9fh6u03auuek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
